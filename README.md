@@ -11,5 +11,10 @@ This is a AST generator for Lispfuck Language, made for "Fundamentos de Compilad
 ## Usage
 Use the following command on the shell:
 ```shell
-python3 LF_ast.py examples/hello.lf -o test.txt
+python3 LF_ast.py examples/basic.lf
 ```
+## Students
+Name | Code
+:-----:|:-----:
+Matheus de Oliveira Silva | 14/0028331
+Stefânia Bezerra da Silva | 14/0031634
